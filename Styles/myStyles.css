@@ -1,0 +1,46 @@
+p{
+    font-family: 'Times New Roman', Times, serif
+}
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(229, 160, 195)
+}
+.header-text{
+    color: pink;
+}
+
+h3{
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.box1 {
+    border-width: 4px;
+    border-style: solid;
+    border-color: pink;
+    border: solid 4px pink;
+}
+li {
+    font-style: italic;
+    font-weight: normal;
+}
+
+a {
+    color:rgb(4, 25, 119)
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {text-decoration: underline}
+.bold {font-weight: bold;}
+
+.justify{
+    text-align: justify;
+}

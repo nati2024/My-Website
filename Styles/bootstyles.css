@@ -1,0 +1,13 @@
+body {
+    align-items: center;
+    margin-left: -300px;
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(229, 160, 195)
+}
+.header-text{
+    color: pink;
+}
+
+h3{
+    font-family:'Times New Roman', Times, serif ;
+}
